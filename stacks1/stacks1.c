@@ -2,7 +2,7 @@
  * stacks1.c
  *
  *  Created on: Oct. 10, 2019
- *      Author: manavdeep
+ *  //    Author: manavdeep
  */
 
 
